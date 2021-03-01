@@ -1,2 +1,5 @@
-# Blog
-Projeto de um Blog criado com PHP.
+# Blog Codar
+
+Um Blog de Programção criado com HTML3, CSS3 e PHP.
+
+
