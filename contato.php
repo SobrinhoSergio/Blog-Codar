@@ -4,7 +4,7 @@
 ?>
 
 
-<h1>Página Contato</h1>
+<h1>Página de Contato</h1>
     
 <?php
 

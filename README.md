@@ -1,5 +1,5 @@
 # Blog Codar
 
-Um Blog de Programção criado com HTML3, CSS3 e PHP.
+Um Projeto de um Blog de Programação criado com HTML5, CSS3 e PHP.
 
 

@@ -1,6 +1,6 @@
 <footer>
 
-    <p>Blog - 2021</p>
+    <p>Hora de Blog  &copy; - 2021</p>
 
 </footer>
 

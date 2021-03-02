@@ -32,7 +32,6 @@
             <li><a href="#" class="nav-link">Sobre</a></li>
             <li><a href="<?= $BASE_URL; ?>contato.php" class="nav-link">Contato</a></li>
         </ul>
-
     </nav>
 
 </header>
